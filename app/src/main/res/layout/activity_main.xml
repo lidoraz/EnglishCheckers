@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dark_wood_texture"
+    tools:context="com.prod.kardris.englishcheckers.MainActivity">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteY="17dp">
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:clipToPadding="true"
+            android:columnCount="8"
+            android:columnOrderPreserved="true"
+            android:padding="0dp"
+            android:paddingBottom="0dp"
+            android:paddingEnd="0dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp"
+            android:paddingStart="0dp"
+            android:paddingTop="0dp"
+            android:rowCount="8"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="89dp">
+
+            <Button
+                android:id="@+id/gButton0"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton1"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton2"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton3"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton4"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton5"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton6"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton7"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton8"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton9"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton10"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton11"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton12"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton13"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton14"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton15"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton16"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton17"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton18"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton19"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton20"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton21"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton22"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton23"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton24"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton25"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton26"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton27"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton28"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton29"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton30"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton31"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton32"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton33"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton34"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton35"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton36"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton37"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton38"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton39"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton40"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton41"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton42"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton43"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton44"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton45"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton46"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton47"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton48"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton49"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton50"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton51"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton52"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton53"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton54"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton55"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton56"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton57"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton58"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton59"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton60"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton61"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton62"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+            <Button
+                android:id="@+id/gButton63"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:width="40dp"
+                android:height="40dp" />
+
+        </GridLayout>
+
+        <TextView
+            android:id="@+id/status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="420dp"
+            android:textAlignment="textStart"
+            android:textColor="#FFFFFFFF"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            tools:layout_editor_absoluteY="458dp" />
+
+
+    </RelativeLayout>
+
+
+</android.support.constraint.ConstraintLayout>
